@@ -1,0 +1,23 @@
+ .Red {
+    color: rgb(223, 25, 25);
+    width: 50px;
+  }
+  .Yellow {
+    color: rgb(160, 160, 36);
+    width: 50px;
+  }
+  
+  .Blue {
+    color: rgb(129, 129, 165);
+    width: 50px;
+  }
+  
+  .Orange {
+    color: rgb(206, 143, 26);
+    width: 50px;
+  }
+  
+  .Green {
+    color: rgb(80, 163, 80);
+    width: 50px;
+  }
